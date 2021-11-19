@@ -1,2 +1,3 @@
 # Meu_amigo_virtual
- Criar um Objeto e rotinas básicas do dia a dia.
+
+## Programa em Python, se resume na criação de um amigo virtual e rotinas básicas do dia a dia.
